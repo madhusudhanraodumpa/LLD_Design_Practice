@@ -1,0 +1,15 @@
+Design TicTacToe:
+
+1. Size of board can be n*n
+2. No.of player =n-1. Every player have its own symbol
+3. Player should be able to choose the symbol at the start of the game and no 2 players should have the same symbol.
+4.will have list of players intially will randomise the list of players turns.
+5.will have bot in the system , will have only 1 bot in the system
+6. Bot diffculty level (EASY,MEDIUM,HARD)
+7.Timer between the moves.
+8.Score/Leaderboard/Tournments
+9.Pause/Resume/Quit the game
+10. Mutiple ways to win the game.(row,column,dignoal )
+11. Blocked cell
+12.Undo(Latest move in the game)->WE can do more undo operations consecutivly 
+

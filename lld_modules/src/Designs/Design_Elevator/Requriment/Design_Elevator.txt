@@ -1,0 +1,35 @@
+Elevator Design :
+
+● Users should be able to call an elevator at a particular floor.
+● Users should be able to go to the desired floor.
+● Elevators should accept multiple requests at a time and should
+try to fulfill all those requests in an optimal way.
+● Gates should open/close. - Time should be configurable
+● Start/Stop elevator
+● Emergency Button → Elevator should come to the closest
+floor.
+● Display Board on elevator
+● Can go in the maintenance mode
+● Light/Fan → Auto mode.
+● Limited capacity for the elevator
+
+--------------------------------------------------------------------------
+There can be multiple floors
+
+There can be more than one elevator
+
+Elevators can be added or removed(for maintenance) as needed.
+
+Two types of requests to be considered-
+
+i. Person on the floor pressing the UP/DOWN button to call the elevator
+
+ii. Person in the elevator pressing the floor number button to reach a destination
+
+The algorithm for calling the elevator should be dynamic.
+
+The functional algorithm for the elevator should also be dynamic
+
+-------------------------------------------------------------------------------------------
+
+https://swatijha.hashnode.dev/elevator-system-low-level-design

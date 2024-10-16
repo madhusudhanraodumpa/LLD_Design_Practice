@@ -1,0 +1,12 @@
+Design Pen:
+Anything that can write as Pen.
+1. Different types of pens(Ball,Gel,Fountain)
+2. Pen might or might not have a refil.
+3. Refil will have ink.
+4. Fountain pen won't have refil.
+5. Ink can be different color.
+6. Every pen have brand and cost.
+7. Some types of pens can't be refilled 
+8. Refil has nib. for fountain pen, pen will have direct nib.
+9. nib can be different sizes
+10. Ink can be different types ex water proof, transprent etc
